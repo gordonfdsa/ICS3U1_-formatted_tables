@@ -3,7 +3,7 @@ class KmTOMiles1 extends ConsoleProgram {
   /**
   * Description
   * A program that converts kilometers to miles from 10 to 100km, every 10km
-  * @author: E. Fabroa
+  * @author: Gordon Z
   */
   
   public void run() {
